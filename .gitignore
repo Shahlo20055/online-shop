@@ -221,3 +221,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Internet Shop loyihasi uchun qo'shimcha ---
+# Vaqtinchalik fayllar
+*.tmp
+*.log
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Maxfiy kalitlar va sozlamalar (to'lov API kalitlari, parollar)
+.env
+.env.*
+!.env.example
+secrets.json
+*.pem
+*.key
+
+# Mahalliy ma'lumotlar bazasi va yuklangan rasmlar
+*.sqlite3
+*.db
+uploads/
