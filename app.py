@@ -13,7 +13,7 @@ def valid_price(narx):
 
 def valid_quantity(soni, qoldiq):
     """Savatchadagi miqdor 1 dan ombordagi qoldiqgacha (qoldiq ham kiradi)."""
-    return _is_int(soni) and _is_int(qoldiq) and 1 <= soni < qoldiq
+    return _is_int(soni) and _is_int(qoldiq) and 1 <= soni <= qoldiq
 
 
 def savatcha_jami(qatorlar):
