@@ -46,7 +46,16 @@ Mahsulotlar katalogi, savatcha, buyurtma, mijozlar va to'lov holatini yagona web
 - Texnologiyalar: Python, SQLite, HTML/CSS/JS, GitHub (versiyalash, Issues, Actions).
 - Byudjet: 0 so'm (bepul vositalar); muddat qat'iy — 29.12.2026.
 
-## 7. Asosiy xatarlar
+## 7. Vazifalar (GitHub Issues)
+| # | Vazifa | Label |
+|---|---|---|
+| [#1](https://github.com/Shahlo20055/online-shop/issues/1) | Login sahifasi | mvp, enhancement |
+| [#2](https://github.com/Shahlo20055/online-shop/issues/2) | Mahsulot katalogi va qidiruv | mvp, backend |
+| [#3](https://github.com/Shahlo20055/online-shop/issues/3) | Savatcha va buyurtma berish | mvp, backend |
+| [#4](https://github.com/Shahlo20055/online-shop/issues/4) | To'lov holatini kuzatish | backend |
+| [#5](https://github.com/Shahlo20055/online-shop/issues/5) | Savdo hisoboti (CSV) | enhancement |
+
+## 8. Asosiy xatarlar
 - To'lov tizimi test kalitlarini olish kechikishi;
 - mahsulot ma'lumotlari (rasm, narx) kech taqdim etilishi;
 - yagona ijrochining band bo'lib qolishi.
