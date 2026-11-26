@@ -35,7 +35,7 @@ Web ilova MVP bosqichida qo'shiladi (rejaga ko'ra 29.12.2026 gacha).
 | Shixnazar Xusainov | Ilmiy rahbar (o'qituvchi) |
 
 ## Vazifalar
-Ishlar [GitHub Issues](https://github.com/Shahlo20055/online-shop/issues) orqali yuritiladi. Login va rollar spetsifikatsiyasi: [docs/login.md](docs/login.md).
+Ishlar [GitHub Issues](https://github.com/Shahlo20055/online-shop/issues) orqali yuritiladi. Joriy sprint: [Sprint 1](https://github.com/Shahlo20055/online-shop/milestone/1), 30.11–11.12.2026. Login va rollar spetsifikatsiyasi: [docs/login.md](docs/login.md).
 
 ## Litsenziya
 MIT
